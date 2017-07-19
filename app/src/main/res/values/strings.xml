@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Textview_Adv</string>
+    <string name="multi_color_textview">Material color TextView</string>
+    <string name="patters_textview">Pattern TextView</string>
+    <string name="shadow_textview">Shadow TextView</string>
+    <string name="working_with_textview"><u>Working with TextView</u></string>
+    <string name="mutlicolor">MutliColor</string>
+    <string name="patters">Patters</string>
+    <string name="shadow">shadow</string>
+    <string name="title_activity_pattern__text_view">Pattern_TextView</string>
+</resources>
